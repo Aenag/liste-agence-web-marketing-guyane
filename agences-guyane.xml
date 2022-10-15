@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <NOM>Agence BA marketing</NOM>
+    <ADDRESS>9 lot Anse du Mahury</ADDRESS>
+    <ADRESS2>Impasse Avecinnia</ADRESS2>
+    <CPO>97354</CPO>
+    <CITY>Remire-Montjoly</CITY>
+    <PHONE1>0694 92 29 20</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>beatrice.nollet@bamarketing.fr</EMAIL>
+    <URL>https://bamarketing.fr/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Agence Web Guyane</NOM>
+    <ADDRESS>494 route Montabo</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0694 20 09 11</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL></URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Agence Web Kbatis</NOM>
+    <ADDRESS>Avenue Général de Gaulle</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0768 42 32 00</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL></URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Alaisenet</NOM>
+    <ADDRESS>3 bis route Montabo</ADDRESS>
+    <ADRESS2>Lotissement De Ho Kong Ciat</ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0783 12 29 67</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>alaisenet@gmail.com</EMAIL>
+    <URL>https://alaisenet.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Bitwip</NOM>
+    <ADDRESS>1 place Schoelcher</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0980 80 82 42</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://bitwip.fr/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>C2i Guyane SARL</NOM>
+    <ADDRESS>13 r Rouget de Lisle</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0594 38 53 85</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@digitom.fr</EMAIL>
+    <URL>https://www.c2i-outremer.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Comimpex</NOM>
+    <ADDRESS>25 rue Jean-Elie Euloge</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97354</CPO>
+    <CITY>Remire-Montjoly</CITY>
+    <PHONE1>0594 29 46 32</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL></URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Côté cube</NOM>
+    <ADDRESS>1 Rue Rouget de l&apos;Isle</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0594 10 82 20</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>info@cote-cube.fr</EMAIL>
+    <URL>https://www.cote-cube.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Couleurwest-it</NOM>
+    <ADDRESS>3910 avenue Christophe Colomb</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97320</CPO>
+    <CITY>Saint-Laurent-du-Maroni</CITY>
+    <PHONE1>0694 94 98 42</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@couleurwest-it.fr</EMAIL>
+    <URL>https://couleurwest-it.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>DEV.COM</NOM>
+    <ADDRESS>8 rue Breguet</ADDRESS>
+    <ADRESS2>Z.I. Pariacabo</ADRESS2>
+    <CPO>97310</CPO>
+    <CITY>Kourou</CITY>
+    <PHONE1>0594 32 01 56 </PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://www.devcom-guyane.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>E-com</NOM>
+    <ADDRESS>2 rue Louis Blanc</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0694 21 90 94</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>ecomcguyane@gmail.com</EMAIL>
+    <URL>https://ecom973.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Galwebdesign</NOM>
+    <ADDRESS>51 rue René Jadfard</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0694 91 91 85</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>http://galwebdesign.net</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>IMT Concept</NOM>
+    <ADDRESS>7 impassable d&apos;Abreu</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0630 57 30 12</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL></URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Isona</NOM>
+    <ADDRESS>721 Route départemental N5</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97356</CPO>
+    <CITY>Montsinéry Tonnegrande</CITY>
+    <PHONE1>0690 30 80 80</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL></URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Kasim Conseil</NOM>
+    <ADDRESS>17 avenue Mozart</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97310</CPO>
+    <CITY>Kourou</CITY>
+    <PHONE1>0694 91 73 37</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>kasim_conseil@presidency.com</EMAIL>
+    <URL>https://www.kasimconseil.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>L&apos;art communique</NOM>
+    <ADDRESS>34 rue Louis Blanc</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0782 71 57 55</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>hello@lartcommunique.com</EMAIL>
+    <URL>https://lartcommunique.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Le Service</NOM>
+    <ADDRESS>182 rue Jules Patient</ADDRESS>
+    <ADRESS2>Cite Zephir Ens</ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0594 30 93 20</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL></URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>N.O.V.I. (Network Of Visual Information)</NOM>
+    <ADDRESS>20 lot Artisanal Galmot</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0694 49 42 43</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@novi-connected.fr</EMAIL>
+    <URL>https://novi-connected.fr/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Netactions</NOM>
+    <ADDRESS>Bat. EUROPA E14</ADDRESS>
+    <ADRESS2>Les Jardins de la Madeleine</ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0594 28 62 92</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://netactions.net/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Nuage Com</NOM>
+    <ADDRESS>1 Rue Rouget de l&apos;Isle</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0694 91 10 03</PHONE1>
+    <PHONE2>0694 27 59 03</PHONE2>
+    <EMAIL>contact@nuagecom.com</EMAIL>
+    <URL>https://nuagecom.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Orphose.studio</NOM>
+    <ADDRESS>14 rue Alphone Bocs</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97351</CPO>
+    <CITY>Matouri</CITY>
+    <PHONE1></PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>start@orphose.studio</EMAIL>
+    <URL>https://www.orphose.studio/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Priv studio</NOM>
+    <ADDRESS>55 avenue Voltaire</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1></PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>hello@priv.studio</EMAIL>
+    <URL></URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Publirama Studio</NOM>
+    <ADDRESS>84 Ter rue Victor Schoelcher</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0594 30 25 82</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>http://www.publiramastudio.com</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Solocal Outre-mer</NOM>
+    <ADDRESS>Centre Plazza Marengo</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0590 78 73 80</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://agence.solocal.com/8-solocal-outre-mer</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Waltacom</NOM>
+    <ADDRESS>15 rue Eugène Tècle</ADDRESS>
+    <ADRESS2>Cité Thémire</ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0694 99 08 29</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@waltacom.fr</EMAIL>
+    <URL>https://waltacom.fr/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Web2Web</NOM>
+    <ADDRESS>Rue J. Jauré</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>06 90 47 79 55</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>guyane@web2web.fr</EMAIL>
+    <URL>https://web2web.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Yanacom</NOM>
+    <ADDRESS>17 rue Vermont Polycarpe</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97300</CPO>
+    <CITY>Cayenne</CITY>
+    <PHONE1>0594 29 89 46</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@yanacomguyane.fr</EMAIL>
+    <URL>https://yanacomguyane.fr/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+</root>
